@@ -1,0 +1,10 @@
+torch
+numpy
+sklearn
+scikit-learn
+scipy
+torchfm
+tensorboardX
+pandas
+parse
+tqdm
