@@ -1,6 +1,6 @@
 # Code repo for Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation (CERP)
 
-This is the PyTorch implementation of our ICDM 2023 paper:
+This is the PyTorch implementation of our ICDM 2023 [paper](https://arxiv.org/abs/2309.03518):
 > Xurong Liang, Tong Chen, Quoc Viet Hung Nguyen, Jianxin Li, and Hongzhi Yin, 
 > "Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation,"
 > in ICDM, 2023. 
